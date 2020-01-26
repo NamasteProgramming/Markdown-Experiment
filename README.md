@@ -8,6 +8,7 @@ This repository contains source code for the playlist divided into multiple bran
 
 | Video Title | Branch | Video Link |
 | ----------- | ------ | ---------- |
-| AWS Lambda Getting Started  | NA  | https://www.youtube.com/watch?v=64Mc3dSkomw&list=PLcpL2kgfJqjmrmODjUygRYGTxD8gHdczi&index=2&t=0s |
-| Serverless framework setup  | aws_sam_setup  | https://www.youtube.com/watch?v=Er9zgsekclw&list=PLcpL2kgfJqjmrmODjUygRYGTxD8gHdczi&index=4&t=0s |
-| Run lambda function on local computer  | aws_sam_setup  | https://www.youtube.com/watch?v=Er9zgsekclw&list=PLcpL2kgfJqjmrmODjUygRYGTxD8gHdczi&index=4&t=0s |
+| AWS Lambda Getting Started | NA | https://www.youtube.com/watch?v=64Mc3dSkomw&list=PLcpL2kgfJqjmrmODjUygRYGTxD8gHdczi&index=2&t=0s |
+| Serverless framework setup | NA | https://www.youtube.com/watch?v=JNCBB840c4k&list=PLcpL2kgfJqjmrmODjUygRYGTxD8gHdczi&index=3&t=0s |
+| Run lambda function on local computer | aws_sam_setup  | https://www.youtube.com/watch?v=Er9zgsekclw&list=PLcpL2kgfJqjmrmODjUygRYGTxD8gHdczi&index=4&t=0s |
+| Add routing to lambda functions | NA  | https://www.youtube.com/watch?v=2uzWvp1vibE&list=PLcpL2kgfJqjmrmODjUygRYGTxD8gHdczi&index=5&t=0s |
